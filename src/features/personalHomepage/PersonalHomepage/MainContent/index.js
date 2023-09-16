@@ -11,7 +11,7 @@ import heroImage from "./heroImage.png";
 import { ReactComponent as MailIcon } from "./Message.svg";
 import { email } from "../email";
 
-export const Hero = () => {
+export const Header = () => {
   return (
     <Wrapper>
       <Avatar src={heroImage} alt="Kamil Justyński" />
