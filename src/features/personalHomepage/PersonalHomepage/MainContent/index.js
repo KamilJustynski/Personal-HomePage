@@ -1,32 +1,34 @@
 import {
-  HeroContainer,
-  HeroImage,
-  HeroContent,
+  Wrapper,
+  Avatar,
+  Content,
   Person,
-  Admission,
+  ThisIs,
   Description,
   ContactButton,
 } from "./styled";
-import heroImage from "../images/heroImage.png";
+import heroImage from "./heroImage.png";
+import { ReactComponent as MailIcon } from "./Message.svg";
+import { email } from "../email";
 
 export const Hero = () => {
   return (
-    <HeroContainer>
-      <HeroImage src={heroImage} alt="Photo of Kamil" />
-      <HeroContent>
-        <Admission>THIS IS</Admission>
-        <Person>KAMIL JUSTYŃSKI</Person>
+    <Wrapper>
+      <Avatar src={heroImage} alt="Kamil Justyński" />
+      <Content>
+        <ThisIs>This is</ThisIs>
+        <Person>Kamil Justyński</Person>
         <Description>
           💻 I am a Junior Frontend Developer with one year of experience
           looking for new programming challenges. I am currently looking for my
           first job where I can explore new technologies and improve my skills
           and among better programmers.
         </Description>
-        <ContactButton>
-          <ion-icon name="mail-outline"></ion-icon>
+        <ContactButton href={`mailto:${email}`} title={email}>
+          <MailIcon />
           Hire Me!
         </ContactButton>
-      </HeroContent>
-    </HeroContainer>
+      </Content>
+    </Wrapper>
   );
 };
