@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { ButtonLink } from "../ButtonLink";
 
 export const Wrapper = styled.div`
   display: grid;
@@ -65,7 +66,7 @@ export const Description = styled.p`
   }
 `;
 
-export const ContactButton = styled.button`
+export const ContactButton = styled(ButtonLink)`
   display: inline-flex;
   align-items: center;
   margin-top: 32px;

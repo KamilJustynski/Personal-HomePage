@@ -3,7 +3,6 @@ import { ThemeProvider } from "styled-components";
 import { PersonalHomepage } from "../../features/personalHomepage/PersonalHomepage";
 import { GlobalStyle } from "./GlobalStyle";
 import { themeDark, themeLight } from "./theme";
-import { Normalize } from "styled-normalize";
 import { selectIsDarkTheme } from "../../common/themeSlice";
 
 export const App = () => {
@@ -11,7 +10,6 @@ export const App = () => {
 
   return (
     <ThemeProvider theme={isDarkTheme ? themeDark : themeLight}>
-      <Normalize />
       <GlobalStyle />
       <PersonalHomepage />
     </ThemeProvider>
