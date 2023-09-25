@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.444d51da.js",
-    "static/media/heroImage.png": "/static/media/heroImage.813aaa204520900fd873.png",
-    "static/media/instagram.svg": "/static/media/instagram.35a42708b613dea444a74a5648b87e57.svg",
-    "static/media/sun.svg": "/static/media/sun.216ced733f55adf4ab3f29a29f3bc436.svg",
-    "static/media/github.svg": "/static/media/github.465bcf768720b603ff0dd5f557fca638.svg",
-    "index.html": "/index.html",
-    "static/media/error.svg": "/static/media/error.e32b9266a4023b53c35804d380427fb1.svg",
-    "static/media/linkedin.svg": "/static/media/linkedin.b2329c8460dfc4e71dd023660b802e24.svg",
-    "static/media/Message.svg": "/static/media/Message.a2a199c0ca8e4fce475622ee0ec5b0a9.svg",
-    "static/media/facebook.svg": "/static/media/facebook.86ecdafa20bb4b78a09d05a2314b9e14.svg",
-    "static/media/spinner.svg": "/static/media/spinner.0b97170f44249dd3587290ff94e1bc40.svg",
-    "static/media/bullet.svg": "/static/media/bullet.2e0373db538bc3356cd323b77ac39950.svg",
-    "main.444d51da.js.map": "/static/js/main.444d51da.js.map"
+    "main.js": "/Personal-HomePage/static/js/main.891d3de1.js",
+    "static/media/heroImage.png": "/Personal-HomePage/static/media/heroImage.813aaa204520900fd873.png",
+    "static/media/instagram.svg": "/Personal-HomePage/static/media/instagram.35a42708b613dea444a74a5648b87e57.svg",
+    "static/media/sun.svg": "/Personal-HomePage/static/media/sun.216ced733f55adf4ab3f29a29f3bc436.svg",
+    "static/media/github.svg": "/Personal-HomePage/static/media/github.465bcf768720b603ff0dd5f557fca638.svg",
+    "index.html": "/Personal-HomePage/index.html",
+    "static/media/error.svg": "/Personal-HomePage/static/media/error.e32b9266a4023b53c35804d380427fb1.svg",
+    "static/media/linkedin.svg": "/Personal-HomePage/static/media/linkedin.b2329c8460dfc4e71dd023660b802e24.svg",
+    "static/media/Message.svg": "/Personal-HomePage/static/media/Message.a2a199c0ca8e4fce475622ee0ec5b0a9.svg",
+    "static/media/facebook.svg": "/Personal-HomePage/static/media/facebook.86ecdafa20bb4b78a09d05a2314b9e14.svg",
+    "static/media/spinner.svg": "/Personal-HomePage/static/media/spinner.0b97170f44249dd3587290ff94e1bc40.svg",
+    "static/media/bullet.svg": "/Personal-HomePage/static/media/bullet.2e0373db538bc3356cd323b77ac39950.svg",
+    "main.891d3de1.js.map": "/Personal-HomePage/static/js/main.891d3de1.js.map"
   },
   "entrypoints": [
-    "static/js/main.444d51da.js"
+    "static/js/main.891d3de1.js"
   ]
 }
