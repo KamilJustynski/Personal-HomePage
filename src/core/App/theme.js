@@ -44,7 +44,7 @@ export const themeLight = {
     },
     boxBackground: colorNames.porcelain,
     headerLine: colorNames.mercury,
-    Tile: {
+    tile: {
       border: colorNames.porcelain,
       borderHover: colorNames.tropicalBlue,
       header: colorNames.scienceBlue,
