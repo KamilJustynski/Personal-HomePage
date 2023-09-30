@@ -18,10 +18,10 @@ export const MainContent = () => (
       <ThisIs>This is</ThisIs>
       <Person>Kamil Justyński</Person>
       <Description>
-        💻 I am a Junior Frontend Developer with one year of experience looking
-        for new programming challenges. I am currently looking for my first job
-        where I can explore new technologies and improve my skills and among
-        better programmers.
+        💻 Hi, I am a Junior Frontend Developer with one year experience. I am
+        looking for my first job and programming challenges. I want to explore
+        new technologies, improve my skills and gain knowledge among other
+        programmers.
       </Description>
       <ContactButton href={`mailto:${email}`} title={email}>
         <MailIcon />
