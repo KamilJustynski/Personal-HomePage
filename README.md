@@ -9,7 +9,7 @@ This is my Personal Homepage based on a design in Figma. It contains information
 
 ## Demo
 
-[Kamil Justyński- Personal homepage](https://r0galkj.github.io/Personal-HomePage/)
+[Kamil Justyński- Personal homepage](https://kamiljustynski.github.io/Personal-HomePage/)
 
 ## Used Technologies:
 
