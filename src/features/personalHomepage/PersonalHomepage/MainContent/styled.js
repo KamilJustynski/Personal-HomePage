@@ -75,7 +75,6 @@ export const ContactButton = styled(ButtonLink)`
   justify-content: center;
   gap: 16px;
   border-radius: 4px;
-  border: 1px solid ${({ theme }) => theme.colors.scienceBlue};
   background-color: ${({ theme }) => theme.colors.scienceBlue};
   color: ${({ theme }) => theme.colors.white};
   font-weight: 600;
