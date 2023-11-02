@@ -53,7 +53,8 @@ export const Bullet = styled(BulletImage)`
   height: auto;
 
   @media (max-width: ${({ theme }) => theme.breakpoints.mobileMax}px) {
-    width: 6px;
+    min-width: 6px;
+    max-width: 6px;
     margin-right: 8px;
   }
 `;
