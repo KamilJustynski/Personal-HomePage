@@ -1,6 +1,8 @@
 <div align="center">
 <h3> Hello everyone! Welcome to my page.</h3>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&center=true&vCenter=true&width=435&lines=Welcome+on+my+website;Thanks+for+visiting" alt="Typing SVG" /></a>
+
 # Kamil Justyński
 
 # Personal Homepage
