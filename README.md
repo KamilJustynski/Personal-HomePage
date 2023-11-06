@@ -13,6 +13,8 @@ This is my Personal Homepage based on a design in Figma. It contains information
 
 [Kamil Justyński- Personal homepage](https://kamiljustynski.github.io/Personal-HomePage/)
 
+![screenshot](https://github.com/KamilJustynski/Personal-HomePage/blob/main/public/video.mp4)
+
 ## Used Technologies:
 
 `JavaScript ES+` `React` `React Redux` `React Redux-Saga` `React Redux-Toolkit` `API` `Axios` `styled-component` `RWD` `Normalize` `Immuntabbility` `Accesability` `color-alpha`
