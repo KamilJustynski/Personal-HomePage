@@ -13,7 +13,7 @@ This is my Personal Homepage based on a design in Figma. It contains information
 
 [Kamil Justyński- Personal homepage](https://kamiljustynski.github.io/Personal-HomePage/)
 
-![screenshot](https://github.com/KamilJustynski/Personal-HomePage/blob/main/public/Video.mp4)
+![Personal Homepage Gif](https://raw.githubusercontent.com/KamilJustynski/Personal-HomePage/main/public/gif.gif)
 
 ## Used Technologies:
 
