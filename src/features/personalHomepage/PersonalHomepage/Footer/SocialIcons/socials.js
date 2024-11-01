@@ -11,18 +11,8 @@ export const socials = [
     Icon: styleIcon(GithubIcon),
   },
   {
-    name: "Facebook",
-    url: "https://www.facebook.com/kamil.justynski",
-    Icon: styleIcon(FacebookIcon),
-  },
-  {
     name: "Linkedin",
     url: "https://www.linkedin.com/in/kamil-justy%C5%84ski/",
     Icon: styleIcon(LinkedinIcon),
-  },
-  {
-    name: "Instagram",
-    url: "https://www.instagram.com/k_justysx/",
-    Icon: styleIcon(InstagramIcon),
   },
 ];

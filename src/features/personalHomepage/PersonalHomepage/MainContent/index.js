@@ -7,7 +7,7 @@ import {
   Description,
   ContactButton,
 } from "./styled";
-import heroImage from "./heroImage.png";
+import heroImage from './kamil.jpeg'
 import { ReactComponent as MailIcon } from "./Message.svg";
 import { email } from "../email";
 
@@ -18,10 +18,7 @@ export const MainContent = () => (
       <ThisIs>This is</ThisIs>
       <Person>Kamil Justyński</Person>
       <Description>
-        💻 Hi, I am a Junior Frontend Developer with one year experience. I am
-        looking for my first job and programming challenges. I want to explore
-        new technologies, improve my skills and gain knowledge among other
-        programmers.
+        💻 Hi, I am a Frontend Developer with a passion for creating interactive and modern web applications. I love to explore new technologies and improve my skills.
       </Description>
       <ContactButton href={`mailto:${email}`} title={email}>
         <MailIcon />
